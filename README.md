@@ -1,11 +1,19 @@
 # emailer
 Node.js project helps automate emailing process
 
-Make sute to install dependencies 
+## How to run this project:
+
+1. Make sure to install the dependencies:
+
+```bash
 npm install
+```
 
-And then you can adjust the content to your needs
+2. Adjust code to you needs
 
-to run emailer simply:
+3. Run emailer
 
+```bash
 node index.js
+```
+
