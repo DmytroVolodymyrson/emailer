@@ -134,5 +134,69 @@
   {
     "name": "Nerder",
     "email": "hello@nerder.com"
+  },
+  {
+    "name":"Kingsmen Software",
+    "email":"info@kingsmensoftware.com"
+  },
+  {
+    "name":"ByteLine Studio",
+    "email":"contact@bytelinestudio.com"
+  },
+  {
+    "name":"Web3",
+    "email":"hello@web3.ca"
+  },
+  {
+    "name":"Digital Fractal",
+    "email":"contact@digitalfractal.com"
+  },
+  {
+    "name":"Revolve",
+    "email":"info@revolve.ca"
+  },
+  {
+    "name":"Paradox Digital",
+    "email":"info@paradoxdigital.ca"
+  },
+  {
+    "name":"Code & Effect",
+    "email":"hello@codeandeffect.com"
+  },
+  {
+    "name":"RocketHouse",
+    "email":"info@rockethouse.ca"
+  },
+  {
+    "name":"Nventive",
+    "email":"info@nventive.com"
+  },
+  {
+    "name":"Symbility Solutions",
+    "email":"info@symbilitysolutions.com"
+  },
+  {
+    "name":"Northern Digital",
+    "email":"humanresources@ndigital.com"
+  },
+  {
+    "name":"Northern HCI Solutions",
+    "email":"info@northernhci.ca"
+  },
+  {
+    "name":"Cheeky Monkey Media",
+    "email":"hello@cheekymonkeymedia.ca"
+  },
+  {
+    "name":"Net Solutions",
+    "email":"careers@netsolutions.com"
+  },
+  {
+    "name":"FreshWorks Studio",
+    "email":"careers@freshworks.io"
+  },
+  {
+    "name":"ImageX",
+    "email":"hello@imagexmedia.com"
   }
 ]

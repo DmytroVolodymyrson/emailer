@@ -11,28 +11,7 @@ const transporter = nodeMailer.createTransport({
   },
 });
 
-const companies = [
-  {
-    name: "Think Basis",
-    email: "info@thinkbasis.com",
-  },
-  {
-    name: "Thrive Digital",
-    email: "careers@thrivedigital.com",
-  },
-  {
-    name: "Skunkworks Creative Group",
-    email: "info@skunkworks.ca",
-  },
-  {
-    name: "Kiti",
-    email: "connect@thekiti.com",
-  },
-  {
-    name: "Nerder",
-    email: "hello@nerder.com",
-  },
-];
+const companies = [];
 
 const sendEmailToCompany = (companyName, companyEmail) => {
   const personalizedMessage =
