@@ -14,7 +14,7 @@ const transporter = nodeMailer.createTransport({
 
 const companies = [];
 
-const sendEmailToCompany = async (companyName, companyEmail) => {
+const sendEmailToCompany = (companyName, companyEmail) => {
   const personalizedMessage =
     `Hello ${companyName} Team,\n` +
     "\n" +
