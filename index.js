@@ -1,4 +1,5 @@
 import { config as dotEnvConfig } from "dotenv";
+import existingCompanies from "./companies.json" assert { type: "json" };
 import nodeMailer from "nodemailer";
 
 dotEnvConfig();
@@ -13,7 +14,7 @@ const transporter = nodeMailer.createTransport({
 
 const companies = [];
 
-const sendEmailToCompany = (companyName, companyEmail) => {
+const sendEmailToCompany = async (companyName, companyEmail) => {
   const personalizedMessage =
     `Hello ${companyName} Team,\n` +
     "\n" +
@@ -24,6 +25,8 @@ const sendEmailToCompany = (companyName, companyEmail) => {
     "What I bring to the table is not just my technical skills, but also my passion for creating user-friendly websites and applications that make a real difference to businesses. I believe I could be a valuable addition to your team, helping to deliver even more high-quality projects to your clients.\n" +
     "\n" +
     `I would love the opportunity to further discuss how I can contribute to ${companyName}. I've attached my resume for your review. If there are any opportunities that you believe I would be a good fit for, or if you'd like more information about my skills and experience, I'd be more than happy to chat.\n` +
+    "\n" +
+    `Please note that although I am currently based in Calgary, I am open to relocating for the right opportunity.\n` +
     "\n" +
     "Thank you for considering my application. I'm looking forward to the possibility of working with you.\n" +
     "\n" +
@@ -46,6 +49,16 @@ const sendEmailToCompany = (companyName, companyEmail) => {
   transporter.sendMail(options);
 };
 
-for (const company of companies) {
-  sendEmailToCompany(company.name, company.email);
+for (const [companyIndex, company] of companies.entries()) {
+  if (
+    existingCompanies.find(
+      (existingCompany) => existingCompany.email === company.email
+    )
+  ) {
+    continue;
+  }
+
+  setTimeout(() => {
+    sendEmailToCompany(company.name, company.email);
+  }, 1000 * companyIndex);
 }

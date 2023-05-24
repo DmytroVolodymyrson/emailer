@@ -26,6 +26,8 @@
     "nodemailer": "^6.9.2"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.21.8",
+    "@babel/plugin-syntax-import-assertions": "^7.20.0",
     "@types/node": "^20.2.3",
     "eslint": "^8.41.0",
     "eslint-config-prettier": "^8.8.0",
