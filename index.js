@@ -1,5 +1,5 @@
 import { config as dotEnvConfig } from "dotenv";
-import existingCompanies from "./companies.json" assert { type: "json" };
+import existingCompanies from "./companies/frontend.json" assert { type: "json" };
 import nodeMailer from "nodemailer";
 
 dotEnvConfig();

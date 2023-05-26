@@ -196,7 +196,7 @@
     "email":"careers@freshworks.io"
   },
   {
-    "name":"ImageX",
+        "name":"ImageX",
     "email":"hello@imagexmedia.com"
   },
   {
@@ -306,5 +306,97 @@
   {
     "name":"Rangle",
     "email":"careers@rangle.io"
+  },
+  {
+    "name":"Mirego",
+    "email":"info@mirego.com"
+  },
+  {
+    "name":"Epik Solutions",
+    "email":"contact@epikso.com"
+  },
+  {
+    "name":"Mantle314",
+    "email":"hello@manifestclimate.com"
+  },
+  {
+    "name":"Motion Recruitment",
+    "email":"accessibility@motionrp.com"
+  },
+  {
+    "name":"TEEMA",
+    "email":"support@teemagroup.com"
+  },
+  {
+    "name":"IT-IQ",
+    "email":"apply@it-iq.com"
+  },
+  {
+    "name":"FleetOps",
+    "email":"us@coffeestyle.io"
+  },
+  {
+    "name":"Positive",
+    "email":"connect@positive.co.uk"
+  },
+  {
+    "name":"Appnovation",
+    "email":"contact@appnovation.com"
+  },
+  {
+    "name":"Plank",
+    "email":"info@plankdesign.com"
+  },
+  {
+    "name":"Redstamp Agency",
+    "email":"hello@redstamp.com"
+  },
+  {
+    "name":"GiantGoat",
+    "email":"doug@giantgoat.com"
+  },
+  {
+    "name":"Theodo",
+    "email":"contact@theodo.co.uk"
+  },
+  {
+    "name":"Dare",
+    "email":"hello@thisisdare.com"
+  },
+  {
+    "name":"Art & Science",
+    "email":"info@artscience.ca"
+  },
+  {
+    "name":"Havas",
+    "email":"canada.careers@havas.com"
+  },
+  {
+    "name":"Digital Echidna",
+    "email":"hello@echidna.ca"
+  },
+  {
+    "name":"Break The Web",
+    "email":"hello@breaktheweb.org"
+  },
+  {
+    "name":"Elastic Path",
+    "email":"media@elasticpath.com"
+  },
+  {
+    "name":"Oxide Design Co.",
+    "email":"drew@oxidedesign.com"
+  },
+  {
+    "name":"Peak Websites",
+    "email":"sayhello@peakwebsites.ca"
+  },
+  {
+    "name":"Brixwork",
+    "email":"info@brixwork.com"
+  },
+  {
+    "name":"Ensemble Systems Inc.",
+    "email":"csa@ensemble.com"
   }
 ]
