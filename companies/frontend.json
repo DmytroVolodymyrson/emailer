@@ -136,267 +136,399 @@
     "email": "hello@nerder.com"
   },
   {
-    "name":"Kingsmen Software",
-    "email":"info@kingsmensoftware.com"
+    "name": "Kingsmen Software",
+    "email": "info@kingsmensoftware.com"
   },
   {
-    "name":"ByteLine Studio",
-    "email":"contact@bytelinestudio.com"
+    "name": "ByteLine Studio",
+    "email": "contact@bytelinestudio.com"
   },
   {
-    "name":"Web3",
-    "email":"hello@web3.ca"
+    "name": "Web3",
+    "email": "hello@web3.ca"
   },
   {
-    "name":"Digital Fractal",
-    "email":"contact@digitalfractal.com"
+    "name": "Digital Fractal",
+    "email": "contact@digitalfractal.com"
   },
   {
-    "name":"Revolve",
-    "email":"info@revolve.ca"
+    "name": "Revolve",
+    "email": "info@revolve.ca"
   },
   {
-    "name":"Paradox Digital",
-    "email":"info@paradoxdigital.ca"
+    "name": "Paradox Digital",
+    "email": "info@paradoxdigital.ca"
   },
   {
-    "name":"Code & Effect",
-    "email":"hello@codeandeffect.com"
+    "name": "Code & Effect",
+    "email": "hello@codeandeffect.com"
   },
   {
-    "name":"RocketHouse",
-    "email":"info@rockethouse.ca"
+    "name": "RocketHouse",
+    "email": "info@rockethouse.ca"
   },
   {
-    "name":"Nventive",
-    "email":"info@nventive.com"
+    "name": "Nventive",
+    "email": "info@nventive.com"
   },
   {
-    "name":"Symbility Solutions",
-    "email":"info@symbilitysolutions.com"
+    "name": "Symbility Solutions",
+    "email": "info@symbilitysolutions.com"
   },
   {
-    "name":"Northern Digital",
-    "email":"humanresources@ndigital.com"
+    "name": "Northern Digital",
+    "email": "humanresources@ndigital.com"
   },
   {
-    "name":"Northern HCI Solutions",
-    "email":"info@northernhci.ca"
+    "name": "Northern HCI Solutions",
+    "email": "info@northernhci.ca"
   },
   {
-    "name":"Cheeky Monkey Media",
-    "email":"hello@cheekymonkeymedia.ca"
+    "name": "Cheeky Monkey Media",
+    "email": "hello@cheekymonkeymedia.ca"
   },
   {
-    "name":"Net Solutions",
-    "email":"careers@netsolutions.com"
+    "name": "Net Solutions",
+    "email": "careers@netsolutions.com"
   },
   {
-    "name":"FreshWorks Studio",
-    "email":"careers@freshworks.io"
+    "name": "FreshWorks Studio",
+    "email": "careers@freshworks.io"
   },
   {
-        "name":"ImageX",
-    "email":"hello@imagexmedia.com"
+    "name": "ImageX",
+    "email": "hello@imagexmedia.com"
   },
   {
-    "name":"Kinetic Cafe",
-    "email":"info@kineticcommerce.com"
+    "name": "Kinetic Cafe",
+    "email": "info@kineticcommerce.com"
   },
   {
-    "name":"MindSea",
-    "email":"hello@mindsea.com"
+    "name": "MindSea",
+    "email": "hello@mindsea.com"
   },
   {
-    "name":"Fusionary",
-    "email":"info@fusionary.com"
+    "name": "Fusionary",
+    "email": "info@fusionary.com"
   },
   {
-    "name":"3 SIDED CUBE",
-    "email":"jobs@3sidedcube.com"
+    "name": "3 SIDED CUBE",
+    "email": "jobs@3sidedcube.com"
   },
   {
-    "name":"Uniserve Communications",
-    "email":"customercare@uniserve.com"
+    "name": "Uniserve Communications",
+    "email": "customercare@uniserve.com"
   },
   {
-    "name":"Synic Software",
-    "email":"hello@synicsw.com"
+    "name": "Synic Software",
+    "email": "hello@synicsw.com"
   },
   {
-    "name":"ZeMind Studios",
-    "email":"info@zemind.ca"
+    "name": "ZeMind Studios",
+    "email": "info@zemind.ca"
   },
   {
-    "name":"RenoRun",
-    "email":"info@renorun.com"
+    "name": "RenoRun",
+    "email": "info@renorun.com"
   },
   {
-    "name":"Clearbridge Mobile",
-    "email":"careers@clearbridgemobile.com"
+    "name": "Clearbridge Mobile",
+    "email": "careers@clearbridgemobile.com"
   },
   {
-    "name":"Olio Digital Labs",
-    "email":"brendan@oliodigitallabs.com"
+    "name": "Olio Digital Labs",
+    "email": "brendan@oliodigitallabs.com"
   },
   {
-    "name":"Ensemble Systems Inc.",
-    "email":"inquiries@ensemble.com"
+    "name": "Ensemble Systems Inc.",
+    "email": "inquiries@ensemble.com"
   },
   {
-    "name":"iQmetrix",
-    "email":"media@iQmetrix.com"
+    "name": "iQmetrix",
+    "email": "media@iQmetrix.com"
   },
   {
-    "name":"Myplanet",
-    "email":"hello@orium.com"
+    "name": "Myplanet",
+    "email": "hello@orium.com"
   },
   {
-    "name":"Forge and Smith",
-    "email":"contact@forgeandsmith.com"
+    "name": "Forge and Smith",
+    "email": "contact@forgeandsmith.com"
   },
   {
-    "name":"6S Marketing",
-    "email":"kush@6smarketers.com"
+    "name": "6S Marketing",
+    "email": "kush@6smarketers.com"
   },
   {
-    "name":"Northern",
-    "email":"info@northern.co"
+    "name": "Northern",
+    "email": "info@northern.co"
   },
   {
-    "name":"Sparkrock",
-    "email":"info@sparkrock.com"
+    "name": "Sparkrock",
+    "email": "info@sparkrock.com"
   },
   {
-    "name":"Digital Echidna",
-    "email":"hello@echidna.ca"
+    "name": "Digital Echidna",
+    "email": "hello@echidna.ca"
   },
   {
-    "name":"ClearLaunch",
-    "email":"info@clearlaunch.com"
+    "name": "ClearLaunch",
+    "email": "info@clearlaunch.com"
   },
   {
-    "name":"Spiria",
-    "email":"jobs@spiria.com"
+    "name": "Spiria",
+    "email": "jobs@spiria.com"
   },
   {
-    "name":"CodeSpark",
-    "email":"info@codespark.ca"
+    "name": "CodeSpark",
+    "email": "info@codespark.ca"
   },
   {
-    "name":"Polaris Solutions",
-    "email":"info@polarissolutions.com"
+    "name": "Polaris Solutions",
+    "email": "info@polarissolutions.com"
   },
   {
-    "name":"Forge and Smith",
-    "email":"contact@forgeandsmith.com"
+    "name": "Forge and Smith",
+    "email": "contact@forgeandsmith.com"
   },
   {
-    "name":"RhinoActive",
-    "email":"hello@red-rhino.com"
+    "name": "RhinoActive",
+    "email": "hello@red-rhino.com"
   },
   {
-    "name":"Clearbridge Mobile",
-    "email":"careers@clearbridgemobile.com"
+    "name": "Clearbridge Mobile",
+    "email": "careers@clearbridgemobile.com"
   },
   {
-    "name":"Cheeky Monkey Media",
-    "email":"hello@cheekymonkeymedia.ca"
+    "name": "Cheeky Monkey Media",
+    "email": "hello@cheekymonkeymedia.ca"
   },
   {
-    "name":"Rangle",
-    "email":"careers@rangle.io"
+    "name": "Rangle",
+    "email": "careers@rangle.io"
   },
   {
-    "name":"Mirego",
-    "email":"info@mirego.com"
+    "name": "Mirego",
+    "email": "info@mirego.com"
   },
   {
-    "name":"Epik Solutions",
-    "email":"contact@epikso.com"
+    "name": "Epik Solutions",
+    "email": "contact@epikso.com"
   },
   {
-    "name":"Mantle314",
-    "email":"hello@manifestclimate.com"
+    "name": "Mantle314",
+    "email": "hello@manifestclimate.com"
   },
   {
-    "name":"Motion Recruitment",
-    "email":"accessibility@motionrp.com"
+    "name": "Motion Recruitment",
+    "email": "accessibility@motionrp.com"
   },
   {
-    "name":"TEEMA",
-    "email":"support@teemagroup.com"
+    "name": "TEEMA",
+    "email": "support@teemagroup.com"
   },
   {
-    "name":"IT-IQ",
-    "email":"apply@it-iq.com"
+    "name": "IT-IQ",
+    "email": "apply@it-iq.com"
   },
   {
-    "name":"FleetOps",
-    "email":"us@coffeestyle.io"
+    "name": "FleetOps",
+    "email": "us@coffeestyle.io"
   },
   {
-    "name":"Positive",
-    "email":"connect@positive.co.uk"
+    "name": "Positive",
+    "email": "connect@positive.co.uk"
   },
   {
-    "name":"Appnovation",
-    "email":"contact@appnovation.com"
+    "name": "Appnovation",
+    "email": "contact@appnovation.com"
   },
   {
-    "name":"Plank",
-    "email":"info@plankdesign.com"
+    "name": "Plank",
+    "email": "info@plankdesign.com"
   },
   {
-    "name":"Redstamp Agency",
-    "email":"hello@redstamp.com"
+    "name": "Redstamp Agency",
+    "email": "hello@redstamp.com"
   },
   {
-    "name":"GiantGoat",
-    "email":"doug@giantgoat.com"
+    "name": "GiantGoat",
+    "email": "doug@giantgoat.com"
   },
   {
-    "name":"Theodo",
-    "email":"contact@theodo.co.uk"
+    "name": "Theodo",
+    "email": "contact@theodo.co.uk"
   },
   {
-    "name":"Dare",
-    "email":"hello@thisisdare.com"
+    "name": "Dare",
+    "email": "hello@thisisdare.com"
   },
   {
-    "name":"Art & Science",
-    "email":"info@artscience.ca"
+    "name": "Art & Science",
+    "email": "info@artscience.ca"
   },
   {
-    "name":"Havas",
-    "email":"canada.careers@havas.com"
+    "name": "Havas",
+    "email": "canada.careers@havas.com"
   },
   {
-    "name":"Digital Echidna",
-    "email":"hello@echidna.ca"
+    "name": "Digital Echidna",
+    "email": "hello@echidna.ca"
   },
   {
-    "name":"Break The Web",
-    "email":"hello@breaktheweb.org"
+    "name": "Break The Web",
+    "email": "hello@breaktheweb.org"
   },
   {
-    "name":"Elastic Path",
-    "email":"media@elasticpath.com"
+    "name": "Elastic Path",
+    "email": "media@elasticpath.com"
   },
   {
-    "name":"Oxide Design Co.",
-    "email":"drew@oxidedesign.com"
+    "name": "Oxide Design Co.",
+    "email": "drew@oxidedesign.com"
   },
   {
-    "name":"Peak Websites",
-    "email":"sayhello@peakwebsites.ca"
+    "name": "Peak Websites",
+    "email": "sayhello@peakwebsites.ca"
   },
   {
-    "name":"Brixwork",
-    "email":"info@brixwork.com"
+    "name": "Brixwork",
+    "email": "info@brixwork.com"
   },
   {
-    "name":"Ensemble Systems Inc.",
-    "email":"csa@ensemble.com"
+    "name": "Ensemble Systems Inc.",
+    "email": "csa@ensemble.com"
+  },
+  {
+    "name": "Zync",
+    "email": "hello@zync.ca"
+  },
+  {
+    "name": "Laundry Design Works",
+    "email": "hello@laundrydesignworks.com"
+  },
+  {
+    "name": "Evrone",
+    "email": "mail@evrone.com"
+  },
+  {
+    "name": "Cyber Infrastructure Inc.",
+    "email": "info@cisin.com"
+  },
+  {
+    "name": "Reliable PSD",
+    "email": "info@heyreliable.com"
+  },
+  {
+    "name": "Elastic Studio",
+    "email": "allie@resourcela.com"
+  },
+  {
+    "name": "Brand & Mortar",
+    "email": "info@brandandmortar.com"
+  },
+  {
+    "name": "Switch Creative",
+    "email": "info@switchcreative.com"
+  },
+  {
+    "name": "Twirling Umbrellas",
+    "email": "info@twirlingumbrellas.com"
+  },
+  {
+    "name": "Incipient Info",
+    "email": "jobs@incipientinfo.com"
+  },
+  {
+    "name": "Mind Digital",
+    "email": "newyork@minddigital.com"
+  },
+  {
+    "name": "Pixel Army",
+    "email": "info@pixelarmy.ca"
+  },
+  {
+    "name": "Neuronimbus Software Services",
+    "email": "info@neuronimbus.com"
+  },
+  {
+    "name": "Focaloid Technologies",
+    "email": "careers@focaloid.com"
+  },
+  {
+    "name": "Bluespark",
+    "email": "info@bluespark.com"
+  },
+  {
+    "name": "Res.im",
+    "email": "info@resim.ai"
+  },
+  {
+    "name": "Master of Code Global",
+    "email": "canada.sales@masterofcode.com"
+  },
+  {
+    "name": "Major Tom",
+    "email": "careers@majortom.com"
+  },
+  {
+    "name": "Design Shopp",
+    "email": "design-shopp@jobs.workablemail.com"
+  },
+  {
+    "name": "Nomis",
+    "email": "info@nomissolutions.com"
+  },
+  {
+    "name": "Webilize",
+    "email": "contact@webilize.com"
+  },
+  {
+    "name": "Thinkbound",
+    "email": "info@thinkbound.com"
+  },
+  {
+    "name": "WebCreek",
+    "email": "info@webcreek.com"
+  },
+  {
+    "name": "Brave UX",
+    "email": "team@braveux.com"
+  },
+  {
+    "name": "Ngenious",
+    "email": "info@ngeniousstudio.com"
+  },
+  {
+    "name": "Digital Echidna",
+    "email": "hello@echidna.ca"
+  },
+  {
+    "name": "Underlabs Inc.",
+    "email": "support@underlabs.ca"
+  },
+  {
+    "name": "Netwired",
+    "email": "hello@netwired.dev"
+  },
+  {
+    "name": "Red Cherry Digital Solutions",
+    "email": "info@redcherry.ca"
+  },
+  {
+    "name": "Koumbit",
+    "email": "info@koumbit.org"
+  },
+  {
+    "name": "Spiria",
+    "email": "jobs@spiria.com"
+  },
+  {
+    "name": "Web Studio Lab",
+    "email": "careers@webstudiolab.co.uk"
+  },
+  {
+    "name": "CodeSpark",
+    "email": "info@codespark.ca"
   }
 ]

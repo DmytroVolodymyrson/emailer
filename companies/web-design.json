@@ -1,26 +1,214 @@
 [
   {
-    "name":"ZGRAYA",
-    "email":"CONTACT@ZGRAYA.DIGITAL"
+    "name": "ZGRAYA",
+    "email": "CONTACT@ZGRAYA.DIGITAL"
   },
   {
-    "name":"ThinkMobiles",
-    "email":"jobs@qubstudio.com"
+    "name": "ThinkMobiles",
+    "email": "jobs@qubstudio.com"
   },
   {
-    "name":"DIGIS",
-    "email":"sales@digiscorp.com"
+    "name": "DIGIS",
+    "email": "sales@digiscorp.com"
   },
   {
-    "name":"Red Collar",
-    "email":"hello@redcollar.co"
+    "name": "Red Collar",
+    "email": "hello@redcollar.co"
   },
   {
-    "name":"Pixelhunters",
-    "email":"info@pixelhunters.com"
+    "name": "Pixelhunters",
+    "email": "info@pixelhunters.com"
   },
   {
-    "name":"Art Lemon",
-    "email":"hello@art-lemon.com"
+    "name": "Art Lemon",
+    "email": "hello@art-lemon.com"
+  },
+  {
+    "name": "Artkai",
+    "email": "hello@artk.ai"
+  },
+  {
+    "name": "N-iX",
+    "email": "contact@n-ix.com"
+  },
+  {
+    "name": "Intellias",
+    "email": "info@intellias.com"
+  },
+  {
+    "name": "EPAM Systems",
+    "email": "Olena_Kurochka@epam.com"
+  },
+  {
+    "name": "Sigma Software",
+    "email": "team@sigma.software"
+  },
+  {
+    "name": "QArea",
+    "email": "business@qarea.com"
+  },
+  {
+    "name": "Miratech",
+    "email": "info@miratechgroup.com"
+  },
+  {
+    "name": "DevCom",
+    "email": "welcome@devcom.com"
+  },
+  {
+    "name": "DataArt",
+    "email": "sales@dataart.com"
+  },
+  {
+    "name": "NIX Solutions",
+    "email": "ask@nixsolutions.com"
+  },
+  {
+    "name": "Star",
+    "email": "hellostar@star.global"
+  },
+  {
+    "name": "Romexsoft",
+    "email": "info@romexsoft.com"
+  },
+  {
+    "name": "Apriorit",
+    "email": "info@apriorit.com"
+  },
+  {
+    "name": "Daxx",
+    "email": "jobs@griddynamics.com"
+  },
+  {
+    "name": "WebbyLab",
+    "email": "office@webbylab.com"
+  },
+  {
+    "name": "Softjourn",
+    "email": "hr-ua@softjourn.com"
+  },
+  {
+    "name": "Django Stars",
+    "email": "info@djangostars.com"
+  },
+  {
+    "name": "DevRain Solutions",
+    "email": "info@devrain.com"
+  },
+  {
+    "name": "LITSLINK",
+    "email": "sales@litslink.com"
+  },
+  {
+    "name": "Svitla Systems",
+    "email": "s.filimoshkina@svitla.com"
+  },
+  {
+    "name": "NerdzLab",
+    "email": "supernerd@nerdzlab.com"
+  },
+  {
+    "name": "Axon",
+    "email": "hello@axon.dev"
+  },
+  {
+    "name": "CHI Software",
+    "email": "careers@chisw.com"
+  },
+  {
+    "name": "Appus Studio",
+    "email": "dmitry.mikheev@appus.software"
+  },
+  {
+    "name": "WeAreBrain",
+    "email": "sayhello@wearebrain.com"
+  },
+  {
+    "name": "WebMeridian",
+    "email": "info@webmeridian.net"
+  },
+  {
+    "name": "MLSDev",
+    "email": "job@mlsdev.com"
+  },
+  {
+    "name": "CodeIT",
+    "email": "jobs@codeit.us"
+  },
+  {
+    "name": "UPTech",
+    "email": "talents@uptech.team"
+  },
+  {
+    "name": "Redwerk",
+    "email": "info@redwerk.com"
+  },
+  {
+    "name": "iTechArt Group",
+    "email": "hello@ventionteams.com"
+  },
+  {
+    "name": "Yalantis",
+    "email": "careers@yalantis.com"
+  },
+  {
+    "name": "Vilmate",
+    "email": "info@vilmate.com"
+  },
+  {
+    "name": "Visartech Inc.",
+    "email": "info@visartech.com"
+  },
+  {
+    "name": "Sloboda Studio",
+    "email": "alex@sloboda-studio.com"
+  },
+  {
+    "name": "KindGeek",
+    "email": "info@kindgeek.com"
+  },
+  {
+    "name": "Binariks",
+    "email": "info@binariks.com"
+  },
+  {
+    "name": "Relevant Software",
+    "email": "vacancy@relevant.software"
+  },
+  {
+    "name": "Cleveroad",
+    "email": "hr@cleveroad.com"
+  },
+  {
+    "name": "S-PRO",
+    "email": "hi@s-pro.io"
+  },
+  {
+    "name": "Rocketech",
+    "email": "info@rocketech.it"
+  },
+  {
+    "name": "GBKSOFT",
+    "email": "%20career@altamira.ai"
+  },
+  {
+    "name": "Blackthorn Vision",
+    "email": "jobs@blackthorn-vision.com"
+  },
+  {
+    "name": "Redentu",
+    "email": "info@redentu.com"
+  },
+  {
+    "name": "ProCoders",
+    "email": "hello@procoders.tech"
+  },
+  {
+    "name": "Unicsoft",
+    "email": "gkk@unicsoft.com"
+  },
+  {
+    "name": "Echo",
+    "email": "contact@echoua.com"
   }
 ]

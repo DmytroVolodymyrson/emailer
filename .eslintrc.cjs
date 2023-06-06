@@ -14,7 +14,9 @@ module.exports = {
 		sourceType: 'module',
 
 	},
-	rules: {
-	},
+
+
+	rules: {},
+	plugins:['json-format'],
 	parser: "@babel/eslint-parser"
 };
